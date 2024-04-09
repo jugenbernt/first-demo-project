@@ -1,0 +1,36 @@
+{
+  "name": "@jugen/first-demo-project",
+  "version": "1.0.8",
+  "description": "A sample demo project",
+  "main": "index.js",
+  "dependencies": {
+    "@jugen/dependency-status": "^1.0.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "21.0.1",
+    "@rollup/plugin-node-resolve": "13.0.6",
+    "@rollup/plugin-typescript": "8.3.0",
+    "@types/react": "17.0.34",
+    "core-js": "^2.6.12",
+    "error-cause": "^1.0.6",
+    "jackspeak": "=2.1.1",
+    "react": "17.0.2",
+    "rollup": "2.60.0",
+    "typescript": "4.4.4",
+    "tape": "^5.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jugenbernt/first-demo-project.git"
+  },
+  "homepage": "https://github.com/jugenbernt/first-demo-project",
+  "keywords": [
+    "Demo",
+    "Tutorial"
+  ],
+  "author": "Jugen Bernt",
+  "license": "ISC"
+}
