@@ -1,6 +1,6 @@
 {
   "name": "@jugenbernt/first-demo-project",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "A sample demo project",
   "main": "index.js",
   "dependencies": {
