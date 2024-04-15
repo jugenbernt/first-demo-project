@@ -1,6 +1,6 @@
 {
-  "name": "@jugenbernt/first-demo-project",
-  "version": "1.0.1",
+  "name": "first-demo-project",
+  "version": "1.0.2",
   "description": "A sample demo project",
   "main": "index.js",
   "dependencies": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jugenbernt/first-demo-project.git"
+    "url": "https://github.com/jugenbernt/first-demo-project.git"
   },
   "homepage": "https://github.com/jugenbernt/first-demo-project",
   "keywords": [
@@ -24,5 +24,5 @@
     "Tutorial"
   ],
   "author": "Jugen Bernt",
-  "license": "ISC"
+  "license": "MIT"
 }
