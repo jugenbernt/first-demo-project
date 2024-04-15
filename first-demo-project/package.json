@@ -1,0 +1,28 @@
+{
+  "name": "first-demo-project",
+  "version": "1.0.2",
+  "description": "A sample demo project",
+  "main": "index.js",
+  "dependencies": {
+    "after-all": "^0.1.1",
+    "semver": "^4.3.2",
+    "request": "^2.37.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jugenbernt/first-demo-project.git"
+  },
+  "homepage": "https://github.com/jugenbernt/first-demo-project",
+  "keywords": [
+    "Demo",
+    "Tutorial"
+  ],
+  "author": "Jugen Bernt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jugenbernt/first-demo-project/issues"
+  }
+}
